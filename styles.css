@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    h1{font-size: 40px;}
+    font-size: 15px;
+    img {
+    height:100px ;
+    display: flex; 
+    overflow-x: auto;
+    gap: 25px;      
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0,5px;
+}
+
+header { 
+    border-bottom:solid;
+    background-color:  black;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+    margin-right: 5%;
+    
